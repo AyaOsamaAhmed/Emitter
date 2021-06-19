@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Emitter</string>
+    <string name="user_name">User Name</string>
+    <string name="user_email">User Email</string>
+    <string name="user_phone">User Phone</string>
+    <string name="user_company">User Company</string>
+    <string name="user_city">User City</string>
+    <string name="dialog_title">Confirmation</string>
+    <string name="dialog_message">Do You Sure Confirm this user ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>

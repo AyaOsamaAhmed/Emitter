@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Emitter</string>
+    <string name="user_name">اسم المستخدم</string>
+    <string name="user_email">ايميل المستخدم</string>
+    <string name="user_phone">رقم التليفون</string>
+    <string name="user_company">اسم الشركه</string>
+    <string name="user_city">مدينه المستخدم</string>
+    <string name="dialog_title">تأكيد</string>
+    <string name="dialog_message">هل متاكد من تأكيد هذا المستخدم ؟</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+</resources>

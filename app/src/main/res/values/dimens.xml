@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size">14sp</dimen>
+    <dimen name="text_size2">10sp</dimen>
+    <dimen name="height_item">@dimen/_80sdp</dimen>
+    <dimen name="margin">@dimen/_10sdp</dimen>
+    <dimen name="margin2">@dimen/_5sdp</dimen>
+    <dimen name="padding">@dimen/_5sdp</dimen>
+
+</resources>
